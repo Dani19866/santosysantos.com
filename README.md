@@ -1,4 +1,4 @@
-# METALÚRGICAS SANTOS Y SANTOS, C.A.
+# METALÚRGICAS SANTOS Y SANTOS, C.A. (V1.0.0)
 WEB de presentación sin funcionalidades complejas, cuenta con cuatro (3) rutas: Inicio, Línea de productos y Quienes somos. Cada ruta es cargada con rapidez ya que fueron optimizados todos los recursos usados!
 
 ## 🕰️ Tiempo de creación - Efectos
