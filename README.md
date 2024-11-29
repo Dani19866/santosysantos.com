@@ -1,16 +1,40 @@
-# METALÚRGICAS SANTOS Y SANTOS, C.A. (V1.0.0)
-WEB de presentación sin funcionalidades complejas, cuenta con cuatro (3) rutas: Inicio, Línea de productos y Quienes somos. Cada ruta es cargada con rapidez ya que fueron optimizados todos los recursos usados!
+# 🌐 Metalúrgicas Santos y Santos, C.A.
 
-## 🕰️ Tiempo de creación - Efectos
-SECCIÓN    | HORAS      | 
----------- | ---------: |
-DISEÑO EN FIGMA: | `40 HORAS` |
-INICIO | `09:45 HORAS` |
-LÍNEA DE PRODUCTOS  | `01:20 HORAS`  |
-QUIENES SOMOS   | `01:00 HORAS`   |
+¡Bienvenido a la página oficial de **Metalúrgicas Santos y Santos, C.A.**! 🚪🔩  
+Este proyecto es una **plataforma web** diseñada para mostrar la empresa en internet, ofreciendo información básica sobre:  
+- 🛠️ **Nuestros productos**  
+- 🤝 **Clientes destacados**  
+- ❓ **Preguntas frecuentes**  
+- 📇 **Información de contacto**  
+- 🧑‍💼 **Quiénes somos**  
 
-## 🔨 Tecnologías
+## 🛠️ Tecnologías Utilizadas  
+- 🚀 **Astro**: Para una experiencia web moderna y rápida.  
+- ✍️ **Google Fonts**: Para un diseño elegante y profesional.  
+- 🎨 **Tailwind CSS**: Para un estilo limpio y responsivo.  
+- ☁️ **AWS t3.small**: Proyecto alojado en un entorno confiable y escalable.  
 
-1. Astro
-2. Tailwind CSS
-3. EC2 AWS
+## 🎯 Propósito  
+Este sitio web tiene como objetivo principal **mostrar la información de la empresa** de forma clara y accesible, destacando los productos y servicios que ofrecemos.  
+
+## ⏱️ Tiempos de Creación  
+- **DISEÑO EN FIGMA:** 40 horas  
+- **INICIO:** 9:45 horas  
+- **LÍNEA DE PRODUCTOS:** 1:20 horas  
+- **QUIÉNES SOMOS:** 1:00 horas  
+
+## 🚫 Licencia  
+Este proyecto está protegido bajo una licencia personalizada que **prohíbe la copia no autorizada** del código o contenido.  
+
+## 👨‍💻 Autor  
+Creado con 💻 y dedicación por **Daniel Antonio De Oliveira Beñose**.  
+
+## 🤝 Contribuciones  
+Este es un proyecto **personal** y actualmente no acepta contribuciones externas.  
+
+## 👾 Versiones
+- V1.0.0
+
+---
+
+Gracias por visitar la página oficial de **Metalúrgicas Santos y Santos, C.A.**. 🌟  
