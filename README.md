@@ -9,13 +9,6 @@ INICIO | `09:45 HORAS` |
 LÍNEA DE PRODUCTOS  | `01:20 HORAS`  |
 QUIENES SOMOS   | `01:00 HORAS`   |
 
-## 🕰️ Tiempo de creación + Efectos
-SECCIÓN    | HORAS      | 
----------- | ---------: |
-INICIO | `09:45 HORAS` |
-LÍNEA DE PRODUCTOS  | `01:20 HORAS`  |
-QUIENES SOMOS   | `01:00 HORAS`   |
-
 ## 🔨 Tecnologías
 
 1. Astro
