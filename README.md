@@ -17,7 +17,7 @@ Este proyecto es una **plataforma web** diseñada para mostrar la empresa en int
 ## 🎯 Propósito  
 Este sitio web tiene como objetivo principal **mostrar la información de la empresa** de forma clara y accesible, destacando los productos y servicios que ofrecemos.  
 
-## ⏱️ Tiempos de Creación  
+## ⏱️ Tiempos de Creación V1.0.0
 - **DISEÑO EN FIGMA:** 40 horas  
 - **INICIO:** 9:45 horas  
 - **LÍNEA DE PRODUCTOS:** 1:20 horas  
