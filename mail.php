@@ -108,7 +108,6 @@ function sendEmail($formData)
 
         // Enviar correo
         return $mail->send();
-        
     } catch (Exception $e) {
         error_log("Error al enviar correo: {$mail->ErrorInfo}");
         return false;
