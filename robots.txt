@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://santosysantosca.com/sitemap-index.xml
