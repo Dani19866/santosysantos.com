@@ -94,8 +94,8 @@ function sendEmail($formData)
         $mail->CharSet = 'UTF-8';
 
         // Configuración del correo
-        $mail->setFrom('santosysantosca.noreply@gmail.com', 'Daniel');
-        $mail->addAddress('deoliveiradaniel200@gmail.com', 'Destinatario');
+        $mail->setFrom('santosysantosca.noreply@gmail.com', 'www.santosysantosca.com');
+        $mail->addAddress('deoliveiradaniel200@gmail.com', 'mail.php');
 
         // Contenido del correo
         $mail->isHTML(false);
