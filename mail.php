@@ -88,7 +88,7 @@ function sendEmail($formData)
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'santosysantosca.noreply@gmail.com'; // Tu correo Gmail
-        $mail->Password   = 'C0rr3oAutomatic01'; // Contraseña de aplicación
+        $mail->Password   = ''; // Contraseña de aplicación
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
         $mail->CharSet = 'UTF-8';
@@ -131,6 +131,7 @@ function handleFormRequest()
         } else {
             echo "Error al enviar el mensaje. Inténtalo de nuevo más tarde.";
         }
+
     } else {
         echo "Acceso inválido.";
     }
