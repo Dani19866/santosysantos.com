@@ -22,7 +22,16 @@ function validateName($name)
  */
 function validatePhone($phone)
 {
-    return preg_match('/^[0-9\-\(\)\s]+$/', $phone) ? trim($phone) : false;
+    // Elimina espacios en los extremos
+    $phone = trim($phone);
+
+    // Verifica si el número contiene solo dígitos, paréntesis, guiones, espacios y el símbolo '+'
+    if (preg_match('/^[0-9\-\+\(\)\s]+$/', $phone)) {
+        // Opcional: Normaliza el formato eliminando espacios extra
+        return preg_replace('/\s+/', '', $phone);
+    }
+
+    return false;
 }
 
 /**
