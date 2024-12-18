@@ -6,7 +6,8 @@ Este proyecto es una **plataforma web** diseñada para mostrar la empresa en int
 - ✍️ **Google Fonts**: Para un diseño elegante y profesional.  
 - 🎨 **Tailwind CSS**: Para un estilo limpio y responsivo.  
 - ☁️ **AWS t3.small**: Proyecto alojado en un entorno confiable y escalable.
-- 📤 **PHP**: Para el funcionamiento del formulario en conjunto con PHPMailer
+- 📤 **PHP**: Para el funcionamiento del formulario en conjunto con PHPMailer.
+- 🔎 **Google Search Console**: Para mejorar el posicionamiento de la página.
 ## 🎯 Propósito  
 Este sitio web tiene como objetivo principal **mostrar la información de la empresa** de forma clara y accesible, destacando los productos y servicios que ofrecemos.  
 ## ⏱️ Tiempos de Creación V1.0.0
