@@ -8,6 +8,7 @@ Este proyecto es una **plataforma web** diseñada para mostrar la empresa en int
 - ☁️ **AWS t3.small**: Proyecto alojado en un entorno confiable y escalable.
 - 📤 **PHP**: Para el funcionamiento del formulario en conjunto con PHPMailer.
 - 🔎 **Google Search Console**: Para mejorar el posicionamiento de la página.
+- 🖌️**Figma**: Modelo preliminar UI/UX.
 ## 🎯 Propósito  
 Este sitio web tiene como objetivo principal **mostrar la información de la empresa** de forma clara y accesible, destacando los productos y servicios que ofrecemos.  
 ## ⏱️ Tiempos de Creación V1.0.0
@@ -24,5 +25,6 @@ Creado con 💻 y dedicación por **Daniel Antonio De Oliveira Beñose**.
 Este es un proyecto **personal** y actualmente no acepta contribuciones externas.  
 ## 👾 Versiones
 - V1.0.0
+- V2.0.0
 ---
 Gracias por visitar la página oficial de **Metalúrgicas Santos y Santos, C.A.**. 🌟  
